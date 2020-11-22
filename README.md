@@ -41,7 +41,7 @@ The anaconda package includes the python code and the packages (libraries) neede
 - open the CLI or cmd on the machine
 - navigate to the required directory 
 - insert `$ git clone` _`link of the repository`_
-- insert `jupyter notebook'
+- insert `jupyter notebook`
 - a web browser is automatically initiated, where you can see the file `numpy-random.ipynb`
 
 
