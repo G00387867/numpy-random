@@ -31,7 +31,7 @@ A General introduction to the Numpy Package, its usage and the specific sections
 
 > ## References
 
-## To run the Jypyter Notebook:
+## To run the Jupyter Notebook:
 - Initially  you should have no issues to view the contents of the file **`numpy-random.ipynb`** that contains the main body of work.
 
 ### If you would like to interact and edit the contents please be advised that you should have the following requirements:
