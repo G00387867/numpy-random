@@ -29,7 +29,6 @@ A General introduction to the Numpy Package, its usage and the specific sections
 - How to generate and manipulate seeds for code reproducibility
 
 
-> ## References
 
 ## To run the Jupyter Notebook:
 - Initially  you should have no issues to view the contents of the file **`numpy-random.ipynb`** that contains the main body of work.
