@@ -28,9 +28,11 @@ A General introduction to the Numpy Package, its usage and the specific sections
 - PCG64 vs Mersenne Twister
 - How to generate and manipulate seeds for code reproducibility
 
+## Quick steps
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)]
+(https://nbviewer.org/github/G00387867/numpy-random/blob/main/numpy-random.ipynb)
 
-
-## To run the Jupyter Notebook:
+## How to run the Jupyter Notebook
 - Initially  you should have no issues to view the contents of the file **`numpy-random.ipynb`** that contains the main body of work.
 
 ### If you would like to interact and edit the contents please be advised that you should have the following requirements:
