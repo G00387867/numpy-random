@@ -29,6 +29,9 @@ A General introduction to the Numpy Package, its usage and the specific sections
 - How to generate and manipulate seeds for code reproducibility
 
 ## Quick steps
+
+You can view the notebook at the following URL:
+
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/G00387867/numpy-random/blob/main/numpy-random.ipynb)
 
 ## How to run the Jupyter Notebook
